@@ -2,7 +2,7 @@ algoritmo "contador"
 var
       contador, valor, salto:inteiro
 inicio
-      escreval("digite um numero que voce deseja que eu conte at� ele:")
+      escreval("Digite um número que você deseja que eu conte:")
       leia(valor)
       escreva("Digite valor do salto: ")
       leia(salto)
